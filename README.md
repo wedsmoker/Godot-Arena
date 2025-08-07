@@ -3,5 +3,9 @@ Remaking Angel Arena from WC3 in Godot
 
 (Work in progress, download from releases tab)
 
-https://github.com/user-attachments/assets/b0e11082-7c0c-45ff-9a07-4e771d6bfd39
+
+
+
+
+https://github.com/user-attachments/assets/fca4a17b-a377-4eac-b0b2-0be44c9ff112
 
